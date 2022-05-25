@@ -5,8 +5,8 @@ let handler =  m => m.reply(`
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
-
-
+│ • Semua A/N Sadera
+│ • BCA ❌
 │ • Bank BRI 449501004273501
 │ • Dana/Shopeepay/Gopay [085752423288]
 ╰────
