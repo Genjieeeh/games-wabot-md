@@ -26,9 +26,9 @@ You're already adventure!!, please wait *🕐${timers.toTimeString()}*
     m.reply(text.trim())
     user.lastadventure = new Date * 1
 }
-handler.help = ['adventure', 'petualang', 'berpetualang', 'mulung']
+handler.help = ['adventure', 'petualang', 'berpetualang', 'mulung', 'adv']
 handler.tags = ['rpg']
-handler.command = /^(adventure|(ber)?petualang(ang)?|mulung)$/i
+handler.command = /^(adventure|(ber)?petualang(ang)?|mulung|adv)$/i
 
 handler.cooldown = cooldown
 handler.disabled = false
